@@ -1,0 +1,19 @@
+/** {
+  outline: 1px solid red;
+}*/
+.posts {
+  margin-top: 20px;
+  background-color: #FBFAFB;
+}
+.logo {
+  margin-left: 20px;
+}
+.image {
+  width: 90%;
+}
+.positive {
+  color: green;
+}
+.negative {
+  color: red;
+}
